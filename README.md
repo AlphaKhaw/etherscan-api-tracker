@@ -54,15 +54,7 @@
 <!--[![Product Name Screen Shot][product-screenshot]](https://example.com) --> 
 
 This project aims to utilise Etherscan API and webscraping techniques to build a tracker for Ethereum address(es). Currently, this repository contains two Python 
-scripts - `eth_etherscan.py` and `etherscan_api_methods.py`.
-
-| `etherscan_api_methods.py` - Referencing the Etherscan API documentation, this script contains methods with respect to the relevant API endpoints 
-(eg. Accounts - Get Ether Balance for a Single Address | Gas Tracker - Get Gas Oracle). This script can be used to get the general information about Ethereum token and 
-Ethereum address(es). 
-
-| `eth_etherscan.py` - This script combines class methods from `etherscan_api_methods.py` and webscraping to obtain additional information about Ethereum address on 
-the Etherscan webpage. From the Etherscan webpage, additional information such as receipent's and sender's Public Name Tag. After processing information, user can 
-choose to export it as an Excel file for further any processing or data visualisation purposes. 
+scripts - `eth_etherscan.py` and `etherscan_api_methods.py`. User can utilise this repository to keep track of their personal Ethereum cryptocurrency portfolio. 
 
 ### Built with
 
