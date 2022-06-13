@@ -65,7 +65,7 @@ scripts - `eth_etherscan.py` and `etherscan_api_methods.py`. User can utilise th
 ### Main Packages Utilised
 
 * [Selenium with Python](https://selenium-python.readthedocs.io/)
-* [Pandas](https://pandas.pydata.org/docs/reference/index.html/)
+* [Pandas](https://pandas.pydata.org/docs/reference/index.html)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
